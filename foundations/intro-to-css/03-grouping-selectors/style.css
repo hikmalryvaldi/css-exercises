@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+body {
+  text-align: center;
+}
+
+button {
+  font-size: 40px;
+}
+
+.yes {
+  background-color: black;
+  color: white;
+}
+
+.no {
+  background-color: yellow;
+}
