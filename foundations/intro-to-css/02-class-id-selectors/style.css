@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.number {
+  background-color: pink;
+  font-size: 24px;
+}
+
+.number.cooler {
+  font-size: 40px;
+}
+
+#one {
+  font-size: 40px;
+  color: blue;
+}
+
+#two {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 24px;
+}
